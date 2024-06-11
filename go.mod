@@ -4,7 +4,7 @@ go 1.20
 
 require (
 	github.com/docker/go-connections v0.4.0
-	github.com/ethereum/go-ethereum v1.11.6
+	github.com/ethereum/go-ethereum v9.8.65
 	github.com/golang/mock v1.6.0
 	github.com/jupp0r/go-priority-queue v0.0.0-20160601094913-ab1073853bde
 	github.com/tyler-smith/go-bip32 v1.0.0
